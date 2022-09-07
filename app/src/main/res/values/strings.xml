@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MLChallenge</string>
+    <string name="articulo">Artículo</string>
+
+    <string name="no_result_text">No Items to Display</string>
+    <string name="search_empty_text">No Query Results</string>
+    <string name="search_for">Search for %s</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="item_image">Item Image</string>
+</resources>
